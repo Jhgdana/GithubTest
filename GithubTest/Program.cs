@@ -13,6 +13,11 @@ namespace GithubTest
             Console.WriteLine("new feature");
         }
 
+        static void NewFeature2()
+        {
+            Console.WriteLine("new feature 2");
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
