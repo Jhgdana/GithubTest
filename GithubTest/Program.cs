@@ -8,6 +8,11 @@ namespace GithubTest
 {
     internal class Program
     {
+        static void NewFeature()
+        {
+            Console.WriteLine("new feature");
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
